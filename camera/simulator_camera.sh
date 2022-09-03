@@ -5,6 +5,6 @@ echo $GAZEBO_PLUGIN_PATH
 
 source /home/ubuntu/catkin_ws/devel/setup.bash
 
-rosrun gazebo_ros gazebo --verbose ~/catkin_ws/enpit2022-KGU1-/camera/final.world
+rosrun gazebo_ros gazebo --verbose ~/catkin_ws/enpit2022-KGU1-/camera/test.world
 #rosrun gazebo_ros debug --verbose worlds/iris_arducopter_runway.world
 
